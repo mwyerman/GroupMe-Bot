@@ -1,6 +1,6 @@
 # GroupMe-Bot
 
-A basic chatbot for the GroupMe app. Responds to keywords with various responses. Text responses can be set in the commands.json file. Image responses set with an Imgur album - the title of each image is the keyword the image will respond to. All keywords in commands.json and Imgur support REGEX. Supports multiple bots simultaneously if desired.
+A basic chatbot for the GroupMe app. Responds to keywords with various responses. Text responses can be set in the commands.json file. Image responses set with an Imgur album - the title of each image is the keyword the image will respond to. All keywords in commands.json and Imgur support REGEX. Supports multiple bots simultaneously if desired. Also contains a basic web interface to show available commands.
 
 Set Up:
 1) Set up an account at https://dev.groupme.com/. Get your access token by clicking the button in the top right.

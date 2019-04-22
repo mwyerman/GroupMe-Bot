@@ -1,7 +1,7 @@
 {
-  "name": "JewBot",
+  "name": "GroupMe Bot",
   "description": "A basic groupme bot",
-  "repository": "https://github.com/mwyerman/mwyermanBot2",
-  "logo": "http://i.imgur.com/CDj0XVH.png",
+  "repository": "https://github.com/mwyerman/GroupMe-Bot",
+  "logo": "",
   "keywords": []
 }

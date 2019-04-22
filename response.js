@@ -1,4 +1,4 @@
-// JewBot 2
+
 let Bot = require('./Bot.js');
 let Image = require('./Image.js')
 let https = require('https');
